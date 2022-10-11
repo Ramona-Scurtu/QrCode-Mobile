@@ -1,0 +1,43 @@
+body {
+    width: 375px;
+    height:500px;
+    background-color: #d6e2f0;
+    text-align: center;
+    font-family: 'outfit', serif;
+}
+    .white-bk{
+      border-radius: 25px;
+      background: #ffffff;
+      padding: 10px;
+      width: 250px;
+      height: 370px;
+      position: relative;
+      top: 5px;
+      left: 0px;
+      text-align: center;
+    }
+    .qr_code {
+        width: 240px;
+        height: 240px;
+        border-radius: 10px;
+    }
+    .first_text {
+        padding-left: 0px;
+        border-left-width: 10px;
+        margin-left: 5px;
+        margin-right: 5px;
+        padding-top: 10px;
+        line-height: 1.5rem;
+        font-weight: 700;
+        font-size: 1.2rem;
+    }
+    .second_text {
+        font-weight: 400;
+        font-size: 0.8rem;
+        color:#d6e2f0;
+        padding-top: 10px;
+        border-left-width: 10px;
+        margin-left: 1px;
+        margin-right: 10px;
+
+    }
